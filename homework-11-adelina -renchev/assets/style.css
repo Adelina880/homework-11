@@ -1,0 +1,120 @@
+.box-1{
+    height: 300px;
+    width: 400px;
+    background-color: #923afc;
+    margin: auto;
+  }
+  .img{
+    height: 100px;
+    width: 200px;
+    border-radius: 50px 25px;
+    background-color: #fcd547 ; 
+    position: relative;
+    left:100px;
+    top:100px;
+  }
+  .img1{
+     height: 100px;
+     width: 70px;
+     background-color: #b0963a;
+     position:relative;
+     left:165px;
+  }
+  .img2{
+    height: 100px;
+    width: 70px;
+    background-color: #77fc2d;
+    border-radius: 0px 25px 50px 0px;
+    position: relative;
+    left: 233px;
+    bottom:100px
+  }
+  .box-2{
+    height: 300px;
+    width: 400px;
+    background-color: #ffc0cb;
+    margin:auto;
+  }
+  
+  .img1a{
+  width: 320px;
+  height: 220px;
+  background-color:  #00ad17;
+  border-radius: 60%;
+  position:relative;
+  top:40px;
+  left: 40px;
+  }
+  .img2a{
+    width: 300px;
+    height: 200px;
+    background-color: #04e300;
+    border-radius: 60%;
+    position: relative;
+    left: 49px;
+    bottom: 170px;
+  }
+  .img3a{
+    width: 280px;
+    height: 180px;
+    background: #ff5c59;
+    background: radial-gradient(circle, rgba(255,70,33,0.969625350140056) 9%, rgba(222,36,36,1) 29%);;
+    border-radius: 50%;
+    position: relative;
+    left:60px;
+    bottom: 360px
+  }
+  .img4a{
+  width: 10px;
+  height: 10px;
+  background-color:  #212121;
+  border-radius: 50px 30px;
+  position: relative;
+  left: 150px;
+  bottom: 450px;
+  }
+  .img5a{
+  width: 10px;
+  height: 10px;
+  background-color:  #212121;
+  border-radius: 50px 30px;
+  position: relative;
+  left: 170px;
+  bottom: 430px;
+    }
+  .img6a{
+  width: 10px;
+  height: 10px;
+  background-color:  #212121;
+  border-radius: 50px 30px;
+  position: relative;
+  left: 170px;
+  bottom: 500px;
+    }
+  .img7a{
+  width: 10px;
+  height: 10px;
+  background-color:  #212121;
+  border-radius: 50px 30px;
+  position: relative;
+  left: 230px;
+  bottom: 460px;
+  }
+  .img8a{
+    width: 10px;
+    height: 10px;
+    background-color:  #212121;
+    border-radius: 50px 30px;
+    position: relative;
+    left: 230px;
+    bottom: 520px;
+    }
+    .img9a{
+      width: 10px;
+      height: 10px;
+      background-color:  #212121;
+      border-radius: 50px 30px;
+      position: relative;
+      left: 240px;
+      bottom: 510px;
+      }
